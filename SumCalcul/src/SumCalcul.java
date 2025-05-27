@@ -13,4 +13,3 @@ public class SumCalcul {
         System.out.println("점수의 총합은:" + sum);
     }
 }
-
